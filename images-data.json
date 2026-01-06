@@ -2,57 +2,23 @@
   "images": [
     {
       "id": 1,
-      "thumb": "https://yoursite.neocities.org/images/thumbs/image1.jpg",
+      "thumb": "https://yoursite.neocities.org/images/thumbs/image1.webp",
       "full": "https://yoursite.neocities.org/images/full/image1.jpg",
+      "date": "2025-01-15",
       "year": "2025",
       "collection": "scraps",
       "favourite": true,
-      "title": "work title"
+      "title": "winter fragment"
     },
     {
-      "id": 1,
-      "thumb": "https://yoursite.neocities.org/images/thumbs/image1.jpg",
-      "full": "https://yoursite.neocities.org/images/full/image1.jpg",
-      "year": "2025",
-      "collection": "scraps",
-      "favourite": true,
-      "title": "work title"
-    },
-    {
-      "id": 1,
-      "thumb": "https://yoursite.neocities.org/images/thumbs/image1.jpg",
-      "full": "https://yoursite.neocities.org/images/full/image1.jpg",
-      "year": "2025",
-      "collection": "scraps",
-      "favourite": true,
-      "title": "work title"
-    },
-    {
-      "id": 1,
-      "thumb": "https://yoursite.neocities.org/images/thumbs/image1.jpg",
-      "full": "https://yoursite.neocities.org/images/full/image1.jpg",
-      "year": "2025",
-      "collection": "scraps",
-      "favourite": true,
-      "title": "work title"
-    },
-    {
-      "id": 1,
-      "thumb": "https://yoursite.neocities.org/images/thumbs/image1.jpg",
-      "full": "https://yoursite.neocities.org/images/full/image1.jpg",
-      "year": "2025",
-      "collection": "scraps",
-      "favourite": true,
-      "title": "work title"
-    },
-    {
-      "id": 1,
-      "thumb": "https://yoursite.neocities.org/images/thumbs/image1.jpg",
-      "full": "https://yoursite.neocities.org/images/full/image1.jpg",
-      "year": "2025",
-      "collection": "scraps",
-      "favourite": true,
-      "title": "work title"
+      "id": 2,
+      "thumb": "https://yoursite.neocities.org/images/thumbs/image2.webp",
+      "full": "https://yoursite.neocities.org/images/full/image2.jpg",
+      "date": "2024-12-20",
+      "year": "2024",
+      "collection": "digital-dreams",
+      "favourite": false,
+      "title": "abstract vision"
     }
   ]
 }
