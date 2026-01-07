@@ -2,13 +2,13 @@
   "images": [
     {
       "id": 1,
-      "thumb": "https://yoursite.neocities.org/images/thumbs/image1.webp",
+      "thumb": "https://jooski.neocities.org/images/thumbs/888.webp",
       "full": "https://yoursite.neocities.org/images/full/image1.jpg",
-      "date": "2025-01-15",
-      "year": "2025",
+      "date": "2021-11-15",
+      "year": "2021",
       "collection": "scraps",
-      "favourite": true,
-      "title": "winter fragment"
+      "favourite": false,
+      "title": "888"
     },
     {
       "id": 2,
